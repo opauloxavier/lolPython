@@ -116,3 +116,12 @@ player_stat_summary_types = [
 	'KingPoro', # King Poro games
 ]
 solo_queue, ranked_5s, ranked_3s = 'RANKED_SOLO_5x5', 'RANKED_TEAM_5x5', 'RANKED_TEAM_3x3'
+
+
+
+API_Versions = {
+
+	'lolstats':'v1.0',
+	'summoner':'v1.4', 
+}
+##Global Functions
